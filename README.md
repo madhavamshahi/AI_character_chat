@@ -1,5 +1,7 @@
 # openai-chatbot
 
+Test Here: https://ai-character-chat-inky.vercel.app/
+
 ## Project setup
 ```
 yarn install
