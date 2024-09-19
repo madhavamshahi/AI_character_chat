@@ -66,7 +66,7 @@ export default {
                         },
                         {
                             headers: {
-                                Authorization: `Bearer ${process.env.VITE_OPENAI_API_KEY}`,
+                                Authorization: `Bearer ${process.env.VUE_APP_OPENAI_API_KEY}`,
                             },
                         }
                     );
